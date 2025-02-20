@@ -64,6 +64,4 @@ func main(){
 		fmt.Println("Reminder will be displayed after", differ.Round(time.Second))
 		os.Exit(0)
 	}
-
-
 }
