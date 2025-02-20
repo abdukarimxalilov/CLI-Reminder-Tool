@@ -13,7 +13,7 @@ import(
 )
 
 const (
-	markName = "GOLANG_CLI_REMINDER "
+	markName = "GOLANG_CLI_REMINDER"
 	markValue = "1"
 )
 
